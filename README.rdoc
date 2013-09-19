@@ -1,0 +1,5 @@
+== README
+
+This is an example of a broken spec using factory_girl and counter_cache used to explain the issue https://github.com/thoughtbot/factory_girl/issues/566
+
+For more details, see Gemfile.
